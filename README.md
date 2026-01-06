@@ -28,7 +28,6 @@ A **modular, extensible Python-based audiobook generation system** with support 
 - [Documentation](#documentation)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -836,12 +835,6 @@ openai>=1.0.0             # GPT API for chunking
 elevenlabs>=0.2.0         # ElevenLabs TTS
 mlx>=0.9.0                # Apple Silicon optimization
 ```
-
----
-
-## License
-
-This project is licensed under the MIT License - see LICENSE file for details.
 
 ---
 
